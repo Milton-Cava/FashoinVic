@@ -1,0 +1,439 @@
+.Tema{
+   background-color: firebrick;
+   margin: 2rem;
+}
+.titulo h1{
+    
+    margin:0px;
+    margin-left: 20%; 
+    display: inline-block;
+}
+.titulo a{
+ 
+    padding: 13px 100px;
+    float: right;
+    color: darkslateblue;
+    text-decoration: none;
+    margin: 0%;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.inicio:hover{
+    
+    background-color: lightcoral;
+}
+.portada{
+    margin-left: 12%;
+}
+.portada img{
+    width: 900px;
+}
+.contenido{
+    margin: 0px 0px 0px ;
+    background-color: white;
+}
+.contenido{
+    color: cadetblue;
+}
+.Izquierda{
+    margin-left: 5%;
+    width: 25%;
+    
+    display: inline-block;
+    vertical-align: top;
+}
+.derecha{
+    width: 25%;
+    margin-left: 2%;
+    
+    display: inline-block;
+    vertical-align: top;
+}
+.Placer{
+    width: 15%;
+    margin-left: 20%;
+    
+    display: inline-block;
+    vertical-align: top;
+}
+.oferta{
+    margin: 0px 0px 0px ;
+    background-color: white;
+  
+}
+.oferta :hover{
+    background-color: indianred;
+}
+.oferton{
+    margin-left: 5%;
+    width: 25%;
+  
+    text-align: center;
+   background-color: darkslategrey;
+    display: inline-block;
+    vertical-align: top; 
+}
+.Precio{
+    margin-left: 5%;
+    width: 25%;
+    text-align: center;
+    background-color: darkslategrey;
+    display: inline-block;
+    vertical-align: top; 
+}
+
+.Remates{
+    
+    margin: 10px 0px 0px ;
+    background-color: white;
+}
+.Remates :hover{
+    background-color: indianred;
+}
+.ropaoferta{
+    margin-left: 5%;
+    width: 25%;
+   font-size: 70%;
+    text-align: left;
+    background-color: salmon;
+    display: inline-block;
+    vertical-align: top; 
+}
+.precioNormal{
+    margin-left: 5%;
+    width: 25%;
+    font-size: 70%;
+    text-align: left;
+   background-color: salmon;
+    display: inline-block;
+    vertical-align: top; 
+}
+.imagen{
+   
+    width: 15px;
+ 
+    background-color: yellow;
+    display: inline-block;
+    
+}
+.Ventas{
+    text-align: center;
+
+}
+.imagen2{
+    margin: 0px 0px 0px;
+    background-color: white;
+}
+.imagendamas{
+    margin-left: 5%;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.imagencaballero{
+    margin-left: 2%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.VentasProductos{
+    
+    background-color: white;
+}
+.Damas{
+    
+    margin-left: 2%;
+    width: 20%;
+   font-size: 80%;
+    text-align: center;
+  background-color: lightslategrey;
+    display: inline-block;
+    vertical-align: top; 
+}
+.VentasProductos :hover{
+ background-color:lightcoral;
+}
+.caballeros{
+   
+    margin-left: 5%;
+    width: 20%;
+   font-size: 80%;
+    text-align: center;
+    background-color: lightslategrey;
+    display: inline-block;
+    vertical-align: top; 
+}
+.niños{
+    margin-left: 5%;
+    width: 20%;
+   font-size: 80%;
+    text-align: center;
+    background-color: lightslategrey;
+    display: inline-block;
+    vertical-align: top; 
+}
+.niñas{
+    margin-left: 5%;
+    width: 20%;
+    text-align: center;
+   font-size: 70%;
+   background-color: lightslategrey;
+    display: inline-block;
+    vertical-align: top; 
+}
+.PrendasVentas{
+    margin-top: 2%;
+    background-color: white;
+
+}
+.PrendasVentas :hover{
+    background-color: indianred;
+}
+.prendasDamas{
+    margin-left: 2%;
+    width: 20%;
+   font-size: 70%;
+   color: cornsilk;
+    text-align: left;
+    background-color: lightcoral;
+    display: inline-block;
+    vertical-align: top; 
+}
+.prendasCaballeros{
+    margin-left: 5%;
+    width: 20%;
+   font-size: 70%;
+    text-align: left;
+    background-color: lightcoral;
+    color: cornsilk;
+    display: inline-block;
+    vertical-align: top; 
+}
+.prendasniños{
+    margin-left: 5%;
+    width: 20%;
+   font-size: 70%;
+    text-align: left;
+    color: cornsilk;
+    background-color: lightcoral;
+    display: inline-block;
+    vertical-align: top; 
+}
+.prendasniñas{
+    margin-left: 5%;
+    width: 20%;
+   font-size: 70%;
+    text-align: left;
+    color: cornsilk;
+    background-color: lightcoral;
+    display: inline-block;
+    vertical-align: top; 
+}
+
+.mayor{
+    margin-left: 5%;
+    width: 20%;
+    text-align: left;
+    background-color: tomato;
+    display: inline-block;
+    vertical-align: top; 
+}
+.piedepagina{
+    margin-top: 5%;
+    margin: 2rem;
+    background-color: royalblue;
+}
+.contactanos{
+    margin-left: 5%;
+    width: 20%;
+   font-size: 100%;
+    text-align: left;
+    
+    display: inline-block;
+    vertical-align: top; 
+}
+.siguenos{
+    
+    margin-left: 25%;
+    width: 20%;
+   font-size: 70%;
+    
+    margin-top: 1%;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: top; 
+}
+.siguenos a{
+    text-decoration: none;
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.email{
+    margin-left: 5%;
+    width: 20%;
+   font-size: 100%;
+  
+    
+    display: inline-block;
+    vertical-align: top; 
+}
+.email h3{
+  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.efectos :hover{
+  background-color: salmon;
+}
+.divide{
+     
+    background-color: blueviolet;
+    height: 1550px;
+}
+.modelo {
+  
+    width: 320px;
+    height: 1500px;
+    background-color: chartreuse;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px;
+    margin-top: 2%;
+}
+.modelo img{
+    margin-top: 2%;
+    
+    width: 300px;
+    height: 490px;
+}
+.modelo img:hover{
+    background-color: burlywood;
+}
+.bufandas{
+    
+    margin-top: 2%;
+    margin-right:150px;
+    background-color: darkcyan;
+    display: inline-block;
+    vertical-align: top;
+    width: 850px;
+    height:1500px ;
+    
+}
+
+.primercata{
+    margin-top: 2%;
+    background-color: crimson;
+    padding-top: 40px;
+    margin-left:2%;
+    width: 755px;
+    text-align: center;
+    padding-bottom: 40px;
+    display: inline-block;
+    vertical-align: top;
+}
+.primercata li{
+    margin-left: 12%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.primercata :hover{
+    background-color: darksalmon;
+}
+.seccionRopa{
+    background-color: cornflowerblue;
+    padding-top:3px;
+    margin-left:2%;
+    width: 755px;
+    text-align: center;
+    padding-bottom: 40px;
+    display: inline-block;
+    vertical-align: top;
+}
+.seccionRopa li{
+    margin-left:0%;
+    display: inline-block;
+    vertical-align: top;
+}
+.sacotejido{
+    margin-left:1%; 
+}
+.gorrajuego{
+    margin-left:1%; 
+}
+.chompapeluche{
+    margin-left:5%; 
+}
+.seccionRopa :hover{
+    background-color: darksalmon;
+}
+.sec3{
+    background-color: cornflowerblue;
+    padding-top:3px;
+    margin-left:2%;
+    width: 755px;
+    text-align: center;
+    padding-bottom: 40px;
+    display: inline-block;
+    vertical-align: top;
+}
+.sec3 li{
+    margin-left:0%;
+    display: inline-block;
+    vertical-align: top; 
+}
+.sec3 :hover{
+    background-color: darksalmon;
+}
+.sec4{
+background-color: darkgreen;
+    padding-top:3px;
+    margin-left:2%;
+    width: 755px;
+    text-align: center;
+    padding-bottom: 40px;
+    display: inline-block;
+    vertical-align: top;
+}
+.sec4 li{
+    margin-left:0%;
+    display: inline-block;
+    vertical-align: top; 
+}
+
+.sec4 :hover{
+background-color: darksalmon;
+}
+.ubicacion{
+    background-color: darkgreen;
+     margin-top: 10%;
+    margin-left:2%;
+    width: 500px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+.ubicacion h1{
+    margin-left:0%;
+    display: inline-block;
+    vertical-align: top; 
+}
+
+.mapa {
+
+    padding-top:3px;
+    margin-left:2%;
+    width: 755px;
+    display: inline-block;
+    vertical-align: top; 
+}
+.mapa iframe{
+    width: 755px;
+   
+    display: inline-block;
+    vertical-align: top;
+}
+.ubica :hover{
+    background-color: darksalmon;
+    }

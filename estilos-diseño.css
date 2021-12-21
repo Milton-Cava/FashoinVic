@@ -1,0 +1,149 @@
+.titulo{
+    text-align: center;
+    
+}
+.titulo h1{
+  
+    padding-left: 30%;
+   
+    display: inline-block;
+    margin: 0%;
+}
+.titulo a{
+ 
+    padding: 13px 100px;
+    float: right;
+    text-decoration: none;
+    margin: 0%;
+    font-size: 20px;
+    
+}
+.inicio:hover{
+    
+    background-color: lightcoral;
+}
+.NuevosModelos{
+    margin-top: 2%;
+    background-color: steelblue;
+}
+.DiseñoMujer {
+    text-align: center;
+    margin-left: 30%;
+    background-color: steelblue;
+    width: 700px;
+    display: inline-block;
+    vertical-align: top; 
+}
+
+.Abrigocinturon h4{
+    background-color: yellow;
+}
+.Abrigo h4{
+    background-color:rebeccapurple
+}
+.Camisa h4{
+    background-color: seagreen;
+}
+.pijamas h4{
+background-color: rebeccapurple;
+}
+.vestidos h4{
+    background-color: tomato;
+}
+.vestidoslargos h4{
+    background-color:rosybrown;
+}
+.Caballeros{
+    background-color: slategrey;
+}
+.Caballeros h1{
+    text-align: center;
+    background-color: seagreen;
+}
+.diseñoHombre{
+    margin-top: 2%;
+    text-align: center;
+    margin-left: 30%;
+    background-color: steelblue;
+    width: 700px;
+    display: inline-block;
+    vertical-align: top; 
+}
+.camiseta h4{
+    background-color: tan;
+}
+.leva h4{
+    background-color: palegoldenrod;
+}
+.Buso h4{
+    background-color: palegreen;
+}
+.pantalon h4{
+    background-color: salmon;
+}
+.Niños{
+    
+    background-color: slategrey;
+}
+.Niños h1{
+    text-align: center;
+    background-color:rebeccapurple;
+}
+.diseñoNiños{
+    margin-top: 2%;
+    text-align: center;
+    margin-left: 30%;
+    background-color: steelblue;
+    width: 700px;
+    display: inline-block;
+    vertical-align: top; 
+}
+.footer{
+    padding: 5px;
+    background-color: pink;
+    margin-top: 2%;
+    
+}
+.Sucursales{
+   
+   background-color: white;
+}
+.izqui{
+    background-color: white;
+    margin: 0 200px 40px;
+    margin-top: 5%;
+    width: 100px;
+    display: inline-block;
+    vertical-align: top; 
+}
+.dere{
+    background-color: white;
+    margin: 0 2% ;
+    width: 200px;
+    font-size: 80%;
+    display: inline-block;
+    vertical-align: top;
+   padding-left: 30px;
+}
+.FooterIzquierdo{
+    background-color: pink;
+    width: 100px;
+    display: inline-block;
+    vertical-align: top;
+}
+.FooterDerecho{
+    background-color: pink;
+    width: 200px;
+    font-size: 50%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15%;
+}
+.FootermasDerecho{
+    background-color: pink;
+    width: 600px;
+    font-size: 50%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 16%;
+}

@@ -1,0 +1,230 @@
+.titulo h1{
+    text-align: center; 
+    color: cornflowerblue;
+}
+
+.menu{
+
+text-align: center;
+  margin: 0 7px 0;
+}
+
+.botonPrincipal{
+    background-color: cadetblue;
+    color: white;
+  display: inline-block;
+  padding: 0 0 0;
+  margin: 5px 55px 8px;
+  font-size: 25px;
+  text-decoration: none;
+  
+  
+}
+
+.botonAcercaDE{
+    background-color: cadetblue;
+    color: white;
+    margin: 0 55px 0px;
+    font-size: 25px;
+    text-decoration: none;
+    
+}
+.botonCátalogo{
+    background-color: cadetblue;
+    color: white;
+    margin: 0 55px 100px;
+    font-size: 25px;
+    text-decoration: none;
+  
+}
+.botonAyuda{
+    background-color: cadetblue;
+    color: white;
+    margin: 0 55px 100px ;
+    font-size: 25px;
+    text-decoration: none;
+    
+}
+.menu a:hover{
+    background-color: lightcoral;
+}
+
+img{
+    display:block;
+    margin:auto;
+    width: 25cm;
+    height: 15cm;
+    background-color: cornflowerblue;
+}
+/*.historia{
+    margin-top: 5%;
+    background-color: darkslategray;
+    offset-distance: 20% 0 0;
+    margin-right: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.historia h1{
+  
+    width: 600px;
+   float: right;
+}
+.historia p{
+    
+    width: 600px;
+    
+}
+.MISION{
+   
+    width: 600px;
+    display: inline-block;
+    vertical-align: top; 
+}
+.MIS{
+    margin-left: 30%;
+    margin-top: 0%;
+    background-color: darkslategray;
+    offset-distance: 20% 0 0;
+    margin-left: 50%;
+    display: inline-block;
+    vertical-align: right;
+}
+.MIS h1{
+ 
+    width: 600px;
+    float: left; 
+}
+.MIS */
+.historia{
+    margin-top: 5px;
+    background-color: darkcyan;
+    
+    width: 600px;
+    display: inline-block;
+    vertical-align: top;
+}
+.historia img{
+    width: 400px;
+}
+.MIS{
+    margin-top: 5px;
+    background-color: darkcyan;
+ 
+    width: 600px;
+    display: inline-block;
+    vertical-align: top;
+}
+.MIS img{
+    margin-top: 5%;
+    width: 80px;
+    height: 80px;
+    background-color: darkcyan;
+}
+.vision{
+    background-color: darkcyan; 
+}
+.vision img{
+    width: 80px;
+    height: 80px;
+}
+.valores img{
+    width: 80px;
+    height: 80px;
+}
+.autor{
+    background-color: white;
+}
+.autor h4{
+
+padding-left: 43%;
+}
+.autor p{
+font-style: italic;
+font-size: 80%;
+    padding-left: 30%;
+}
+footer {
+margin-top: 1%;
+background-color: steelblue;
+
+}
+.piedePagina{
+   background-color: royalblue;
+}
+.facebook{
+    background-color: royalblue;
+    margin-left: 8%;
+    width: 90px;
+    height: 80px;
+    
+    display: inline-block; 
+    vertical-align: top; 
+
+}
+.facebook img{
+    background-color: royalblue;
+    width: 100px;
+    height: 80px;
+    margin-left: 2%;
+    
+}
+.correo{
+
+    padding: 15px;
+    background-color: royalblue;
+    margin-left: 20%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 250px;
+    height: 35px;
+    display: inline-block; 
+    vertical-align: top; 
+    
+}
+
+.irinicio{
+    padding: 25px;
+    margin-left: 25%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    vertical-align: top; 
+    width: 150px;
+    height: 20px;
+    background-color: royalblue;
+}
+.irinicio a{
+    
+    text-decoration: none;
+}
+.piedePagina  :hover{
+    background-color: seagreen;
+}
+/*.piedePagina a{
+   padding: 0px 100px;
+   float: right;
+   text-decoration: none;
+   width: 30%;
+   
+}
+.piedePagina section :hover{
+    background-color: cadetblue;
+}
+.facebook{
+   
+}
+.facebook img{
+    width: 80px;
+    height: 40px;
+   margin-right: 80%;
+    background-color: steelblue;
+}
+
+.footer p{
+    margin: 0;
+}
+p{
+    margin: 0;
+    color: white;
+    text-align: center;
+}

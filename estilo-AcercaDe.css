@@ -1,0 +1,157 @@
+div{
+background-color: grey;
+padding: 2rem;
+}
+.titulo h1{
+    
+    margin:0px; 
+    display: inline-block;
+}
+.titulo a{
+ 
+    padding: 13px 100px;
+    float: right;
+    text-decoration: none;
+    margin: 0%;
+    font-size: 20px;
+    
+}
+.inicio:hover{
+    
+    background-color: lightcoral;
+}
+.contenido{
+    background-color: white;
+   
+}
+
+.contenido p{
+   
+  width: 400px;
+    vertical-align: top;
+}
+.contenido span{
+    padding: 5% ;
+   
+}
+#imagen1{
+    width: 600px;
+    float: right;
+    margin-right: 10%;
+}
+.indicadores{
+    
+    background-color: white;
+    text-align: center;
+    
+}
+.Nuestros{
+    margin-top: 18%;
+    background-color: white;
+    text-align: center;
+    
+}
+.columna_izquierda{
+    background-color: white;
+    width: 100px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.columna_derecha{
+    background-color: white;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+}
+.footer{
+    padding: 1px;
+    background-color:mediumslateblue;
+    
+    
+}
+.Sucursales{
+   background-color: white;
+}
+.izqui{
+    background-color: white;
+    margin: 0 200px 40px;
+    margin-top: 5%;
+    width: 100px;
+    display: inline-block;
+    vertical-align: top; 
+}
+.dere{
+    background-color: white;
+    margin: 0 2% ;
+    width: 200px;
+    font-size: 80%;
+    display: inline-block;
+    vertical-align: top;
+   padding-left: 30px;
+}
+.FooterIzquierdo{
+    background-color:mediumslateblue;
+    width: 100px;
+    display: inline-block;
+    vertical-align: top;
+}
+.FooterDerecho{
+    background-color:mediumslateblue;
+    width: 200px;
+    font-size: 50%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15%;
+}
+.FootermasDerecho{
+    background-color:mediumslateblue;
+    width: 200px;
+    font-size: 50%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15%;
+}
+/*
+.Alineacion img{
+    
+    background-color: white;
+}
+#cola{
+    float:left
+    
+}
+#prove{
+    float: left;
+    margin-right: 100%;
+    
+}
+
+#acio{
+    float: left;
+    margin-right: 100%;
+    margin-top: 40px;
+}
+
+
+#traba{
+    float: left;
+    margin-right: 100%;
+    margin-top: 40px;
+}
+.menu{
+    background-color: white;
+}
+#proveedor{
+    display: inline-block;
+    vertical-align: top; 
+    
+}
+#accionistas{
+    display: inline-block;
+    vertical-align: top;   
+}
+#empleados{
+    display: inline-block;
+    vertical-align: top;   
+}
